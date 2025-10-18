@@ -12,7 +12,7 @@ activity_data = {
     "avgBPM": 135,
     "maxBPM": 178,
     "workoutType": "HIIT",
-    "caloriesBurnt": 420,
+    "caloriesBurnt": 421,
     "anomalies": [
         "Calorie burnt exceeded for your body physique aspect"
     ],
