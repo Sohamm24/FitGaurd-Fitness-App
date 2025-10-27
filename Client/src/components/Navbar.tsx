@@ -35,7 +35,7 @@ const Navbar: React.FC = () => {
         <div className="max-w-6xl mx-auto">
           <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
             <h1 className={`text-2xl md:text-3xl font-bold bg-clip-text text-transparent ${getGradient()}`}>
-              Balex
+              FitGaurd
             </h1>
             
             <div className="hidden md:flex gap-3">

@@ -1,0 +1,361 @@
+exercise_id,exercise_name,form_name,target_muscle,equipment,intensity_level,experience_level,avg_bpm,est_calories,movement_type,exercise_type,popularity_score
+1,Push-up,Standard,Arms,Bodyweight,Medium,Beginner,123,313,Pull,Strength,0.93
+2,Push-up,Standard,Full Body,Resistance Band,Low,Intermediate,131,221,Push,Flexibility,0.93
+3,Push-up,Standard,Legs,Machine,High,Beginner,147,338,Compound,Endurance,0.96
+4,Push-up,Diamond,Core,Bodyweight,Low,Beginner,126,397,Push,Flexibility,0.85
+5,Push-up,Diamond,Back,Kettlebell,Low,Advanced,132,160,Push,Cardio,0.8
+6,Push-up,Diamond,Back,Barbell,Low,Beginner,165,242,Compound,Cardio,0.86
+7,Push-up,Incline,Full Body,Resistance Band,Medium,Advanced,151,343,Hold,Strength,0.76
+8,Push-up,Incline,Core,Resistance Band,Medium,Intermediate,120,284,Hold,Cardio,0.75
+9,Push-up,Incline,Chest,Plate,Medium,Beginner,136,495,Isolation,Endurance,0.98
+10,Push-up,Decline,Shoulders,Bodyweight,Medium,Intermediate,116,252,Pull,Flexibility,0.81
+11,Push-up,Decline,Full Body,Dumbbell,Low,Beginner,147,136,Isolation,Endurance,0.8
+12,Push-up,Decline,Full Body,Barbell,Medium,Intermediate,140,314,Hold,Endurance,0.92
+13,Push-up,Wide Grip,Full Body,Machine,High,Intermediate,161,436,Push,Flexibility,1.0
+14,Push-up,Wide Grip,Legs,Resistance Band,Low,Beginner,110,305,Compound,Strength,0.74
+15,Push-up,Wide Grip,Full Body,Dumbbell,Medium,Advanced,128,550,Isolation,Flexibility,0.97
+16,Push-up,Clap,Shoulders,Machine,Low,Intermediate,152,177,Pull,Strength,0.85
+17,Push-up,Clap,Chest,Plate,Medium,Advanced,158,404,Isolation,Cardio,0.99
+18,Push-up,Clap,Back,Resistance Band,Medium,Intermediate,113,281,Isolation,Strength,0.71
+19,Push-up,Archer,Core,Dumbbell,Low,Intermediate,151,302,Pull,Strength,0.76
+20,Push-up,Archer,Legs,Plate,High,Advanced,111,481,Hold,Endurance,0.71
+21,Push-up,Archer,Back,Kettlebell,High,Beginner,114,412,Pull,Cardio,0.79
+22,Push-up,Explosive,Core,Kettlebell,Low,Intermediate,160,272,Push,Endurance,0.7
+23,Push-up,Explosive,Full Body,Barbell,Low,Advanced,118,305,Hold,Cardio,0.73
+24,Push-up,Explosive,Shoulders,Resistance Band,Medium,Beginner,130,512,Isolation,Flexibility,0.85
+25,Squat,Back Squat,Legs,Kettlebell,High,Beginner,138,407,Push,Flexibility,0.99
+26,Squat,Back Squat,Arms,Barbell,Medium,Beginner,159,273,Compound,Strength,0.9
+27,Squat,Back Squat,Back,Bodyweight,High,Beginner,130,262,Hold,Cardio,0.7
+28,Squat,Front Squat,Full Body,Barbell,Low,Beginner,122,239,Hold,Strength,0.77
+29,Squat,Front Squat,Chest,Machine,Low,Beginner,157,272,Hold,Endurance,0.75
+30,Squat,Front Squat,Core,Dumbbell,Medium,Beginner,134,311,Compound,Cardio,0.85
+31,Squat,Bodyweight,Back,Barbell,Low,Intermediate,143,271,Hold,Strength,0.79
+32,Squat,Bodyweight,Core,Bodyweight,Low,Beginner,118,130,Compound,Strength,0.82
+33,Squat,Bodyweight,Core,Plate,Medium,Advanced,149,592,Push,Cardio,0.94
+34,Squat,Goblet,Legs,Resistance Band,Medium,Beginner,154,273,Hold,Flexibility,0.73
+35,Squat,Goblet,Shoulders,Resistance Band,Low,Intermediate,159,174,Isolation,Flexibility,0.72
+36,Squat,Goblet,Arms,Plate,Low,Advanced,121,248,Pull,Strength,0.8
+37,Squat,Jump,Legs,Dumbbell,Low,Beginner,120,126,Pull,Endurance,0.96
+38,Squat,Jump,Chest,Bodyweight,Low,Intermediate,137,132,Push,Flexibility,0.8
+39,Squat,Jump,Full Body,Kettlebell,Medium,Beginner,160,292,Compound,Endurance,0.74
+40,Squat,Split,Back,Dumbbell,Low,Intermediate,136,295,Hold,Endurance,0.88
+41,Squat,Split,Chest,Bodyweight,High,Advanced,132,507,Pull,Flexibility,0.97
+42,Squat,Split,Core,Kettlebell,Medium,Advanced,125,389,Hold,Flexibility,0.94
+43,Squat,Box,Core,Kettlebell,High,Intermediate,158,333,Hold,Endurance,0.83
+44,Squat,Box,Core,Barbell,High,Advanced,141,462,Pull,Cardio,0.92
+45,Squat,Box,Chest,Machine,Low,Intermediate,126,178,Isolation,Strength,0.97
+46,Squat,Overhead,Core,Bodyweight,Medium,Beginner,131,255,Pull,Endurance,0.76
+47,Squat,Overhead,Core,Dumbbell,Low,Beginner,161,281,Push,Strength,0.73
+48,Squat,Overhead,Legs,Resistance Band,Medium,Advanced,117,352,Isolation,Cardio,0.8
+49,Row,Seated Cable,Shoulders,Barbell,Low,Beginner,116,321,Pull,Endurance,0.95
+50,Row,Seated Cable,Legs,Plate,Low,Advanced,111,355,Isolation,Cardio,0.98
+51,Row,Seated Cable,Arms,Dumbbell,Medium,Beginner,125,511,Push,Flexibility,0.76
+52,Row,Bent-over Barbell,Legs,Machine,Medium,Advanced,127,598,Hold,Strength,0.98
+53,Row,Bent-over Barbell,Back,Dumbbell,Medium,Intermediate,110,264,Push,Endurance,0.82
+54,Row,Bent-over Barbell,Core,Resistance Band,Medium,Intermediate,162,370,Compound,Endurance,0.71
+55,Row,Dumbbell,Legs,Machine,Low,Intermediate,162,302,Push,Strength,0.91
+56,Row,Dumbbell,Legs,Machine,Medium,Advanced,147,369,Compound,Endurance,0.9
+57,Row,Dumbbell,Back,Dumbbell,Low,Advanced,115,287,Isolation,Cardio,0.78
+58,Row,Inverted,Full Body,Barbell,High,Beginner,164,367,Compound,Strength,0.88
+59,Row,Inverted,Core,Bodyweight,Low,Intermediate,130,330,Push,Strength,0.86
+60,Row,Inverted,Back,Kettlebell,Medium,Beginner,116,357,Pull,Strength,0.89
+61,Row,Meadow,Legs,Dumbbell,Medium,Beginner,128,488,Hold,Flexibility,0.73
+62,Row,Meadow,Full Body,Dumbbell,Low,Beginner,152,374,Compound,Endurance,0.93
+63,Row,Meadow,Core,Machine,Medium,Intermediate,141,365,Compound,Endurance,0.94
+64,Row,T-Bar,Legs,Machine,Medium,Advanced,161,396,Compound,Cardio,0.96
+65,Row,T-Bar,Shoulders,Barbell,Low,Intermediate,135,158,Push,Endurance,0.71
+66,Row,T-Bar,Legs,Resistance Band,Low,Advanced,134,399,Isolation,Flexibility,0.71
+67,Row,Machine,Back,Barbell,High,Beginner,125,383,Compound,Flexibility,0.89
+68,Row,Machine,Shoulders,Bodyweight,Low,Advanced,152,122,Compound,Endurance,0.91
+69,Row,Machine,Chest,Machine,Low,Intermediate,163,134,Pull,Endurance,0.94
+70,Row,Resistance Band,Full Body,Dumbbell,Low,Intermediate,115,114,Isolation,Cardio,0.81
+71,Row,Resistance Band,Full Body,Resistance Band,Medium,Beginner,159,481,Isolation,Cardio,0.77
+72,Row,Resistance Band,Core,Resistance Band,Medium,Intermediate,120,554,Isolation,Endurance,0.74
+73,Deadlift,Conventional,Core,Machine,Low,Intermediate,148,368,Pull,Endurance,0.95
+74,Deadlift,Conventional,Legs,Plate,High,Beginner,112,460,Compound,Strength,0.82
+75,Deadlift,Conventional,Legs,Bodyweight,Low,Beginner,163,192,Compound,Strength,0.86
+76,Deadlift,Sumo,Core,Bodyweight,Low,Advanced,150,397,Hold,Strength,0.82
+77,Deadlift,Sumo,Back,Bodyweight,Medium,Advanced,115,254,Isolation,Endurance,0.9
+78,Deadlift,Sumo,Full Body,Bodyweight,Low,Advanced,148,281,Push,Endurance,0.84
+79,Deadlift,Trap Bar,Core,Barbell,Medium,Advanced,150,230,Push,Flexibility,0.79
+80,Deadlift,Trap Bar,Chest,Plate,High,Intermediate,134,213,Push,Strength,0.99
+81,Deadlift,Trap Bar,Core,Machine,Medium,Beginner,139,263,Compound,Cardio,0.84
+82,Deadlift,Stiff-Legged,Shoulders,Dumbbell,Low,Advanced,115,364,Pull,Cardio,0.88
+83,Deadlift,Stiff-Legged,Chest,Kettlebell,Medium,Intermediate,135,457,Isolation,Endurance,0.98
+84,Deadlift,Stiff-Legged,Chest,Machine,Medium,Intermediate,144,331,Hold,Flexibility,0.95
+85,Deadlift,Deficit,Arms,Dumbbell,Medium,Intermediate,145,435,Compound,Endurance,0.73
+86,Deadlift,Deficit,Back,Resistance Band,Medium,Advanced,152,348,Pull,Cardio,0.82
+87,Deadlift,Deficit,Full Body,Barbell,High,Intermediate,111,576,Isolation,Endurance,0.9
+88,Deadlift,Romanian,Core,Barbell,Medium,Advanced,124,536,Pull,Cardio,0.78
+89,Deadlift,Romanian,Back,Bodyweight,Medium,Beginner,156,485,Push,Endurance,0.97
+90,Deadlift,Romanian,Legs,Barbell,Medium,Beginner,145,581,Pull,Cardio,0.73
+91,Deadlift,Single Leg,Arms,Plate,Medium,Beginner,155,268,Compound,Cardio,0.73
+92,Deadlift,Single Leg,Back,Bodyweight,Medium,Advanced,132,262,Compound,Strength,0.9
+93,Deadlift,Single Leg,Legs,Resistance Band,High,Intermediate,136,253,Compound,Cardio,0.97
+94,Deadlift,Snatch Grip,Core,Kettlebell,High,Advanced,159,459,Compound,Endurance,0.93
+95,Deadlift,Snatch Grip,Legs,Dumbbell,High,Beginner,161,498,Isolation,Strength,0.8
+96,Deadlift,Snatch Grip,Shoulders,Barbell,Medium,Intermediate,136,308,Isolation,Strength,0.83
+97,Plank,Standard,Shoulders,Dumbbell,Low,Beginner,128,120,Compound,Cardio,0.75
+98,Plank,Standard,Legs,Bodyweight,Low,Advanced,140,377,Push,Endurance,0.91
+99,Plank,Standard,Full Body,Resistance Band,Low,Beginner,132,201,Push,Cardio,0.89
+100,Plank,Side,Full Body,Kettlebell,Low,Advanced,146,352,Hold,Strength,0.98
+101,Plank,Side,Core,Plate,Low,Advanced,123,119,Pull,Endurance,0.89
+102,Plank,Side,Full Body,Plate,Medium,Advanced,156,540,Hold,Cardio,0.95
+103,Plank,Reach,Chest,Plate,Low,Advanced,127,312,Compound,Cardio,0.78
+104,Plank,Reach,Arms,Machine,Low,Intermediate,111,191,Compound,Endurance,1.0
+105,Plank,Reach,Back,Barbell,High,Intermediate,151,213,Pull,Flexibility,0.95
+106,Plank,Jack,Legs,Plate,Low,Intermediate,135,259,Isolation,Endurance,0.98
+107,Plank,Jack,Chest,Kettlebell,Medium,Beginner,164,234,Compound,Endurance,0.96
+108,Plank,Jack,Core,Resistance Band,High,Advanced,162,234,Hold,Cardio,0.9
+109,Plank,Forearm,Shoulders,Barbell,High,Beginner,131,221,Pull,Strength,0.92
+110,Plank,Forearm,Chest,Dumbbell,Low,Intermediate,125,282,Compound,Flexibility,0.94
+111,Plank,Forearm,Back,Plate,Medium,Beginner,113,314,Isolation,Strength,0.76
+112,Plank,Weighted,Full Body,Barbell,Low,Intermediate,121,121,Isolation,Strength,0.81
+113,Plank,Weighted,Full Body,Plate,Medium,Advanced,139,308,Compound,Flexibility,0.87
+114,Plank,Weighted,Back,Dumbbell,Low,Intermediate,128,256,Isolation,Cardio,0.99
+115,Plank,Reverse,Chest,Barbell,Low,Intermediate,118,315,Isolation,Cardio,0.79
+116,Plank,Reverse,Legs,Machine,Medium,Intermediate,164,278,Pull,Strength,0.93
+117,Plank,Reverse,Back,Machine,Medium,Advanced,126,281,Pull,Endurance,0.86
+118,Plank,Stability Ball,Arms,Plate,High,Intermediate,163,435,Pull,Cardio,0.87
+119,Plank,Stability Ball,Core,Dumbbell,High,Advanced,148,366,Compound,Strength,0.97
+120,Plank,Stability Ball,Chest,Kettlebell,Medium,Beginner,147,270,Hold,Strength,0.95
+121,Pull-up,Standard,Chest,Bodyweight,High,Intermediate,138,419,Push,Flexibility,0.85
+122,Pull-up,Standard,Full Body,Dumbbell,High,Beginner,112,395,Pull,Endurance,0.97
+123,Pull-up,Standard,Chest,Barbell,Low,Beginner,157,325,Pull,Endurance,0.82
+124,Pull-up,Chin-up,Chest,Resistance Band,Low,Beginner,125,309,Pull,Flexibility,0.79
+125,Pull-up,Chin-up,Shoulders,Plate,Low,Beginner,124,185,Isolation,Endurance,0.97
+126,Pull-up,Chin-up,Core,Plate,High,Advanced,127,268,Isolation,Strength,0.96
+127,Pull-up,Wide Grip,Shoulders,Kettlebell,Low,Advanced,114,262,Isolation,Endurance,0.76
+128,Pull-up,Wide Grip,Arms,Plate,High,Advanced,131,493,Compound,Strength,0.96
+129,Pull-up,Wide Grip,Shoulders,Resistance Band,High,Beginner,160,545,Compound,Endurance,0.79
+130,Pull-up,Neutral,Shoulders,Resistance Band,Medium,Advanced,142,523,Isolation,Cardio,0.8
+131,Pull-up,Neutral,Core,Dumbbell,High,Beginner,163,282,Push,Endurance,0.92
+132,Pull-up,Neutral,Shoulders,Resistance Band,High,Advanced,146,301,Pull,Endurance,0.72
+133,Pull-up,Weighted,Arms,Resistance Band,Medium,Advanced,154,219,Hold,Endurance,0.75
+134,Pull-up,Weighted,Core,Barbell,Low,Intermediate,123,318,Pull,Endurance,0.98
+135,Pull-up,Weighted,Full Body,Plate,High,Intermediate,138,390,Hold,Endurance,0.93
+136,Pull-up,Negative,Legs,Dumbbell,High,Advanced,115,464,Compound,Flexibility,0.73
+137,Pull-up,Negative,Back,Dumbbell,Medium,Beginner,157,485,Compound,Endurance,0.82
+138,Pull-up,Negative,Chest,Barbell,High,Intermediate,117,484,Push,Endurance,0.81
+139,Pull-up,Band Assisted,Core,Machine,High,Beginner,133,283,Pull,Cardio,0.82
+140,Pull-up,Band Assisted,Full Body,Dumbbell,Low,Intermediate,150,114,Hold,Endurance,0.83
+141,Pull-up,Band Assisted,Chest,Dumbbell,High,Advanced,121,310,Compound,Cardio,0.72
+142,Pull-up,Towel Grip,Core,Kettlebell,Medium,Beginner,156,460,Push,Strength,0.78
+143,Pull-up,Towel Grip,Core,Resistance Band,High,Advanced,147,346,Isolation,Flexibility,0.93
+144,Pull-up,Towel Grip,Shoulders,Machine,Medium,Beginner,135,572,Pull,Flexibility,0.83
+145,Shoulder Press,Overhead,Chest,Kettlebell,High,Intermediate,164,588,Push,Flexibility,0.82
+146,Shoulder Press,Overhead,Back,Resistance Band,Low,Beginner,153,265,Hold,Flexibility,0.78
+147,Shoulder Press,Overhead,Back,Resistance Band,Low,Beginner,117,377,Compound,Flexibility,0.98
+148,Shoulder Press,Arnold,Arms,Bodyweight,Medium,Advanced,118,295,Compound,Strength,0.78
+149,Shoulder Press,Arnold,Chest,Plate,High,Beginner,160,589,Hold,Cardio,0.83
+150,Shoulder Press,Arnold,Arms,Kettlebell,High,Beginner,149,302,Push,Cardio,0.77
+151,Shoulder Press,Seated,Legs,Machine,Medium,Advanced,132,328,Hold,Strength,0.72
+152,Shoulder Press,Seated,Legs,Bodyweight,Low,Beginner,143,251,Pull,Strength,0.74
+153,Shoulder Press,Seated,Back,Barbell,Low,Intermediate,111,112,Compound,Flexibility,0.76
+154,Shoulder Press,Machine,Arms,Bodyweight,High,Advanced,159,333,Pull,Endurance,0.71
+155,Shoulder Press,Machine,Core,Bodyweight,Low,Advanced,157,312,Isolation,Flexibility,0.97
+156,Shoulder Press,Machine,Shoulders,Plate,Medium,Advanced,117,472,Isolation,Flexibility,0.86
+157,Shoulder Press,Standing,Legs,Resistance Band,Medium,Beginner,160,513,Isolation,Cardio,0.96
+158,Shoulder Press,Standing,Arms,Resistance Band,High,Advanced,140,554,Isolation,Cardio,0.87
+159,Shoulder Press,Standing,Arms,Dumbbell,Medium,Beginner,142,391,Isolation,Strength,0.9
+160,Shoulder Press,Single Arm,Chest,Machine,Low,Intermediate,150,226,Pull,Endurance,0.82
+161,Shoulder Press,Single Arm,Chest,Dumbbell,Low,Advanced,165,325,Push,Cardio,0.99
+162,Shoulder Press,Single Arm,Shoulders,Resistance Band,High,Beginner,125,249,Pull,Strength,0.92
+163,Shoulder Press,Z Press,Chest,Bodyweight,Medium,Beginner,126,444,Pull,Flexibility,0.87
+164,Shoulder Press,Z Press,Arms,Kettlebell,Low,Advanced,145,146,Isolation,Cardio,0.84
+165,Shoulder Press,Z Press,Legs,Machine,Low,Intermediate,115,255,Push,Flexibility,0.98
+166,Shoulder Press,Kneeling,Core,Bodyweight,Low,Advanced,114,210,Pull,Cardio,0.92
+167,Shoulder Press,Kneeling,Chest,Resistance Band,High,Intermediate,143,399,Hold,Cardio,0.84
+168,Shoulder Press,Kneeling,Core,Resistance Band,Medium,Beginner,144,482,Isolation,Endurance,0.91
+169,Lunge,Forward,Chest,Resistance Band,High,Beginner,124,222,Push,Strength,0.97
+170,Lunge,Forward,Full Body,Machine,High,Advanced,123,423,Hold,Endurance,0.92
+171,Lunge,Forward,Arms,Resistance Band,Medium,Advanced,123,502,Hold,Cardio,0.91
+172,Lunge,Reverse,Shoulders,Bodyweight,High,Intermediate,134,591,Compound,Endurance,0.93
+173,Lunge,Reverse,Chest,Dumbbell,High,Intermediate,158,306,Pull,Endurance,0.9
+174,Lunge,Reverse,Core,Dumbbell,Medium,Intermediate,164,476,Compound,Endurance,0.75
+175,Lunge,Walking,Back,Dumbbell,High,Intermediate,146,243,Pull,Cardio,0.76
+176,Lunge,Walking,Chest,Bodyweight,Low,Advanced,115,285,Hold,Strength,0.89
+177,Lunge,Walking,Chest,Bodyweight,Medium,Advanced,148,303,Push,Strength,1.0
+178,Lunge,Jump,Core,Kettlebell,Low,Advanced,151,249,Pull,Strength,0.98
+179,Lunge,Jump,Core,Kettlebell,High,Beginner,117,507,Hold,Endurance,0.86
+180,Lunge,Jump,Back,Plate,High,Beginner,135,582,Hold,Flexibility,0.8
+181,Lunge,Side,Arms,Resistance Band,Low,Beginner,128,199,Isolation,Strength,0.89
+182,Lunge,Side,Core,Kettlebell,Low,Intermediate,117,195,Isolation,Strength,0.87
+183,Lunge,Side,Full Body,Kettlebell,Medium,Advanced,113,316,Push,Cardio,0.86
+184,Lunge,Bulgarian,Arms,Machine,High,Advanced,146,576,Pull,Strength,0.8
+185,Lunge,Bulgarian,Legs,Plate,Low,Advanced,163,102,Pull,Endurance,0.7
+186,Lunge,Bulgarian,Full Body,Dumbbell,High,Beginner,132,368,Isolation,Cardio,0.95
+187,Lunge,Curtsy,Back,Dumbbell,Low,Beginner,114,280,Isolation,Cardio,0.74
+188,Lunge,Curtsy,Shoulders,Kettlebell,Low,Advanced,154,156,Isolation,Strength,0.88
+189,Lunge,Curtsy,Back,Dumbbell,Low,Intermediate,140,147,Push,Endurance,0.74
+190,Lunge,Barbell,Shoulders,Machine,High,Beginner,145,314,Compound,Endurance,0.84
+191,Lunge,Barbell,Chest,Dumbbell,High,Beginner,137,338,Compound,Flexibility,0.95
+192,Lunge,Barbell,Shoulders,Machine,High,Beginner,115,243,Hold,Flexibility,0.9
+193,Curl,Barbell,Legs,Machine,High,Advanced,114,369,Pull,Cardio,0.79
+194,Curl,Barbell,Back,Bodyweight,Medium,Beginner,131,421,Push,Cardio,0.77
+195,Curl,Barbell,Shoulders,Machine,High,Beginner,119,588,Pull,Strength,0.97
+196,Curl,Hammer,Shoulders,Kettlebell,Medium,Beginner,159,245,Push,Cardio,0.85
+197,Curl,Hammer,Arms,Machine,High,Intermediate,152,304,Pull,Cardio,0.82
+198,Curl,Hammer,Arms,Resistance Band,Low,Beginner,163,398,Pull,Flexibility,0.78
+199,Curl,Concentration,Chest,Machine,Low,Advanced,157,386,Isolation,Cardio,0.7
+200,Curl,Concentration,Chest,Kettlebell,Low,Advanced,142,229,Push,Flexibility,0.9
+201,Curl,Concentration,Chest,Kettlebell,High,Beginner,130,238,Compound,Flexibility,0.79
+202,Curl,Preacher,Full Body,Plate,High,Beginner,146,274,Isolation,Cardio,0.81
+203,Curl,Preacher,Chest,Dumbbell,Medium,Beginner,165,270,Compound,Flexibility,0.92
+204,Curl,Preacher,Full Body,Machine,High,Intermediate,145,324,Push,Cardio,0.77
+205,Curl,Cable,Shoulders,Barbell,Medium,Advanced,165,230,Push,Flexibility,0.83
+206,Curl,Cable,Core,Machine,High,Intermediate,160,462,Push,Endurance,0.71
+207,Curl,Cable,Arms,Bodyweight,Low,Intermediate,121,187,Push,Endurance,0.89
+208,Curl,Incline,Back,Kettlebell,Medium,Intermediate,131,317,Compound,Strength,0.88
+209,Curl,Incline,Shoulders,Plate,High,Advanced,116,476,Hold,Flexibility,0.96
+210,Curl,Incline,Back,Barbell,Medium,Beginner,157,350,Pull,Strength,0.77
+211,Curl,Zottman,Full Body,Resistance Band,Low,Intermediate,129,170,Push,Strength,0.92
+212,Curl,Zottman,Core,Machine,Low,Beginner,142,104,Pull,Endurance,0.8
+213,Curl,Zottman,Arms,Kettlebell,High,Intermediate,150,240,Pull,Cardio,0.99
+214,Curl,Machine,Legs,Kettlebell,Medium,Advanced,119,549,Compound,Flexibility,0.78
+215,Curl,Machine,Full Body,Barbell,High,Advanced,126,416,Pull,Flexibility,0.98
+216,Curl,Machine,Arms,Kettlebell,Low,Advanced,152,101,Compound,Cardio,0.85
+217,Bench Press,Flat,Full Body,Bodyweight,Medium,Intermediate,113,339,Pull,Endurance,0.87
+218,Bench Press,Flat,Core,Barbell,Medium,Beginner,119,368,Hold,Cardio,0.72
+219,Bench Press,Flat,Core,Machine,High,Intermediate,141,448,Hold,Cardio,0.89
+220,Bench Press,Incline,Full Body,Machine,Low,Intermediate,137,145,Push,Cardio,0.97
+221,Bench Press,Incline,Full Body,Resistance Band,High,Advanced,165,393,Pull,Cardio,0.86
+222,Bench Press,Incline,Back,Barbell,High,Intermediate,123,324,Isolation,Flexibility,0.99
+223,Bench Press,Decline,Core,Kettlebell,High,Beginner,118,319,Pull,Flexibility,0.96
+224,Bench Press,Decline,Arms,Dumbbell,High,Advanced,111,558,Isolation,Endurance,0.79
+225,Bench Press,Decline,Full Body,Resistance Band,Low,Intermediate,116,185,Isolation,Strength,0.97
+226,Bench Press,Dumbbell,Shoulders,Plate,Medium,Intermediate,120,559,Compound,Cardio,0.85
+227,Bench Press,Dumbbell,Chest,Machine,Low,Advanced,130,296,Push,Flexibility,0.77
+228,Bench Press,Dumbbell,Chest,Barbell,Low,Beginner,114,144,Push,Endurance,0.73
+229,Bench Press,Machine,Core,Bodyweight,Low,Advanced,142,299,Hold,Cardio,0.87
+230,Bench Press,Machine,Chest,Kettlebell,High,Beginner,160,366,Isolation,Cardio,0.75
+231,Bench Press,Machine,Core,Dumbbell,High,Intermediate,162,291,Push,Flexibility,0.97
+232,Bench Press,Close Grip,Legs,Dumbbell,High,Intermediate,122,397,Hold,Strength,0.84
+233,Bench Press,Close Grip,Arms,Machine,High,Intermediate,162,447,Push,Strength,0.88
+234,Bench Press,Close Grip,Core,Barbell,High,Beginner,142,502,Compound,Flexibility,0.79
+235,Bench Press,Reverse Grip,Back,Plate,Low,Beginner,132,362,Pull,Strength,0.73
+236,Bench Press,Reverse Grip,Full Body,Machine,High,Advanced,130,553,Isolation,Strength,0.8
+237,Bench Press,Reverse Grip,Chest,Machine,Low,Beginner,121,180,Compound,Cardio,0.99
+238,Bench Press,Pause,Back,Plate,Low,Beginner,142,198,Isolation,Strength,0.99
+239,Bench Press,Pause,Chest,Barbell,Medium,Advanced,110,235,Push,Cardio,0.89
+240,Bench Press,Pause,Full Body,Bodyweight,Low,Intermediate,152,310,Pull,Endurance,0.97
+241,Crunch,Standard,Back,Dumbbell,Low,Beginner,110,216,Push,Strength,0.95
+242,Crunch,Standard,Back,Dumbbell,Medium,Advanced,115,430,Hold,Cardio,0.89
+243,Crunch,Standard,Back,Barbell,Low,Beginner,143,317,Pull,Flexibility,0.94
+244,Crunch,Reverse,Arms,Kettlebell,High,Beginner,153,238,Pull,Endurance,0.81
+245,Crunch,Reverse,Back,Dumbbell,High,Intermediate,135,292,Isolation,Flexibility,0.75
+246,Crunch,Reverse,Full Body,Resistance Band,Low,Intermediate,158,345,Hold,Cardio,0.93
+247,Crunch,Bicycle,Full Body,Machine,Low,Intermediate,136,343,Push,Cardio,0.78
+248,Crunch,Bicycle,Arms,Machine,Medium,Intermediate,144,567,Isolation,Endurance,0.75
+249,Crunch,Bicycle,Full Body,Resistance Band,Medium,Intermediate,159,498,Pull,Cardio,0.76
+250,Crunch,Cable,Legs,Resistance Band,High,Beginner,126,268,Compound,Strength,0.97
+251,Crunch,Cable,Back,Machine,Medium,Intermediate,165,465,Isolation,Strength,0.78
+252,Crunch,Cable,Core,Plate,Low,Intermediate,116,299,Hold,Flexibility,0.83
+253,Crunch,Weighted,Core,Resistance Band,Medium,Intermediate,112,439,Compound,Flexibility,0.87
+254,Crunch,Weighted,Arms,Machine,Low,Beginner,132,151,Push,Cardio,0.78
+255,Crunch,Weighted,Full Body,Plate,High,Advanced,121,246,Push,Endurance,0.71
+256,Crunch,Side,Shoulders,Machine,High,Beginner,140,342,Hold,Cardio,0.78
+257,Crunch,Side,Back,Barbell,High,Intermediate,114,473,Compound,Strength,0.76
+258,Crunch,Side,Shoulders,Resistance Band,Low,Advanced,113,193,Hold,Strength,0.86
+259,Crunch,Vertical Leg,Full Body,Machine,Low,Advanced,145,320,Isolation,Cardio,0.76
+260,Crunch,Vertical Leg,Shoulders,Barbell,Medium,Advanced,161,272,Push,Strength,0.76
+261,Crunch,Vertical Leg,Arms,Bodyweight,Medium,Intermediate,156,236,Hold,Cardio,0.8
+262,Crunch,Swiss Ball,Back,Dumbbell,High,Intermediate,127,313,Compound,Cardio,0.98
+263,Crunch,Swiss Ball,Legs,Plate,High,Intermediate,127,539,Compound,Strength,0.77
+264,Crunch,Swiss Ball,Back,Kettlebell,Low,Advanced,111,128,Isolation,Endurance,0.71
+265,Burpee,Standard,Legs,Kettlebell,Medium,Intermediate,131,419,Compound,Strength,1.0
+266,Burpee,Standard,Arms,Bodyweight,Medium,Intermediate,143,384,Hold,Endurance,0.85
+267,Burpee,Standard,Shoulders,Plate,Medium,Beginner,163,581,Compound,Endurance,0.73
+268,Burpee,Push-up,Back,Bodyweight,Medium,Beginner,144,432,Compound,Endurance,0.87
+269,Burpee,Push-up,Chest,Machine,Medium,Advanced,139,425,Isolation,Flexibility,1.0
+270,Burpee,Push-up,Core,Plate,Medium,Advanced,164,502,Isolation,Cardio,0.83
+271,Burpee,No Push-up,Chest,Barbell,Low,Advanced,138,213,Isolation,Endurance,0.8
+272,Burpee,No Push-up,Arms,Dumbbell,High,Beginner,151,454,Hold,Cardio,0.93
+273,Burpee,No Push-up,Arms,Bodyweight,Medium,Intermediate,161,401,Compound,Flexibility,0.73
+274,Burpee,Box Jump,Full Body,Kettlebell,Low,Beginner,141,300,Isolation,Flexibility,0.99
+275,Burpee,Box Jump,Chest,Plate,High,Advanced,156,217,Hold,Cardio,0.82
+276,Burpee,Box Jump,Arms,Machine,High,Beginner,135,438,Compound,Endurance,1.0
+277,Burpee,Lateral Jump,Chest,Kettlebell,Low,Beginner,132,395,Isolation,Flexibility,0.84
+278,Burpee,Lateral Jump,Shoulders,Plate,High,Advanced,156,317,Compound,Endurance,0.74
+279,Burpee,Lateral Jump,Arms,Bodyweight,Low,Beginner,119,399,Isolation,Flexibility,0.76
+280,Burpee,Single Leg,Shoulders,Machine,Medium,Beginner,155,235,Hold,Flexibility,0.86
+281,Burpee,Single Leg,Legs,Barbell,Medium,Intermediate,139,348,Compound,Flexibility,0.9
+282,Burpee,Single Leg,Legs,Plate,Low,Intermediate,121,215,Pull,Endurance,0.94
+283,Burpee,Mountain Climber,Back,Plate,High,Advanced,150,284,Compound,Flexibility,0.76
+284,Burpee,Mountain Climber,Full Body,Plate,Low,Intermediate,145,138,Isolation,Strength,0.83
+285,Burpee,Mountain Climber,Chest,Kettlebell,Medium,Intermediate,122,402,Pull,Cardio,0.82
+286,Burpee,Tuck Jump,Back,Machine,Medium,Advanced,160,534,Compound,Endurance,0.93
+287,Burpee,Tuck Jump,Chest,Plate,Medium,Advanced,154,525,Compound,Strength,0.91
+288,Burpee,Tuck Jump,Full Body,Barbell,High,Advanced,139,586,Isolation,Flexibility,0.93
+289,Dip,Parallel Bar,Core,Barbell,Medium,Beginner,157,489,Push,Flexibility,0.76
+290,Dip,Parallel Bar,Legs,Plate,Medium,Intermediate,146,327,Hold,Endurance,0.92
+291,Dip,Parallel Bar,Full Body,Barbell,Medium,Intermediate,147,473,Compound,Strength,0.71
+292,Dip,Bench,Shoulders,Resistance Band,Medium,Beginner,154,418,Hold,Endurance,0.71
+293,Dip,Bench,Chest,Kettlebell,Medium,Beginner,128,556,Hold,Cardio,0.75
+294,Dip,Bench,Shoulders,Barbell,High,Advanced,126,600,Compound,Strength,0.91
+295,Dip,Ring,Arms,Bodyweight,Low,Beginner,124,207,Pull,Strength,0.99
+296,Dip,Ring,Arms,Barbell,High,Advanced,131,294,Push,Strength,0.95
+297,Dip,Ring,Chest,Machine,Medium,Advanced,137,200,Hold,Flexibility,0.83
+298,Dip,Weighted,Legs,Plate,Low,Advanced,156,114,Hold,Strength,0.71
+299,Dip,Weighted,Core,Plate,Low,Beginner,117,376,Hold,Cardio,0.91
+300,Dip,Weighted,Arms,Resistance Band,Medium,Advanced,121,350,Pull,Flexibility,0.93
+301,Dip,Assisted,Shoulders,Bodyweight,High,Advanced,147,272,Pull,Strength,0.76
+302,Dip,Assisted,Arms,Resistance Band,Low,Intermediate,135,275,Pull,Endurance,0.7
+303,Dip,Assisted,Legs,Kettlebell,Low,Intermediate,110,228,Isolation,Strength,0.87
+304,Dip,Negative,Back,Plate,High,Beginner,142,555,Isolation,Flexibility,0.76
+305,Dip,Negative,Full Body,Machine,Medium,Intermediate,147,516,Compound,Endurance,0.93
+306,Dip,Negative,Legs,Plate,Medium,Advanced,154,421,Push,Endurance,0.71
+307,Dip,Korean,Legs,Plate,High,Beginner,110,506,Isolation,Cardio,0.73
+308,Dip,Korean,Legs,Machine,High,Beginner,142,296,Pull,Flexibility,0.96
+309,Dip,Korean,Shoulders,Dumbbell,High,Intermediate,141,563,Hold,Cardio,0.94
+310,Dip,Straight Bar,Core,Resistance Band,Low,Intermediate,142,382,Compound,Strength,0.95
+311,Dip,Straight Bar,Core,Plate,High,Beginner,156,328,Pull,Endurance,0.97
+312,Dip,Straight Bar,Core,Kettlebell,High,Advanced,126,393,Pull,Endurance,0.95
+313,Press,Leg Press,Chest,Plate,Low,Beginner,144,259,Compound,Strength,0.89
+314,Press,Leg Press,Core,Kettlebell,High,Advanced,135,538,Isolation,Cardio,0.91
+315,Press,Leg Press,Arms,Machine,High,Beginner,133,444,Push,Cardio,0.77
+316,Press,Chest Press,Shoulders,Barbell,Medium,Beginner,132,276,Hold,Endurance,0.98
+317,Press,Chest Press,Shoulders,Plate,Low,Intermediate,156,228,Compound,Strength,0.88
+318,Press,Chest Press,Core,Plate,Medium,Beginner,125,523,Hold,Strength,0.98
+319,Press,Shoulder Press,Arms,Plate,Low,Advanced,119,273,Pull,Endurance,0.88
+320,Press,Shoulder Press,Full Body,Plate,Medium,Intermediate,110,509,Hold,Flexibility,0.99
+321,Press,Shoulder Press,Shoulders,Dumbbell,Low,Intermediate,112,125,Compound,Strength,0.93
+322,Press,Cable Press,Core,Bodyweight,Medium,Beginner,142,557,Hold,Strength,0.87
+323,Press,Cable Press,Arms,Kettlebell,Low,Beginner,129,323,Pull,Endurance,0.9
+324,Press,Cable Press,Back,Resistance Band,Medium,Beginner,117,228,Push,Strength,0.96
+325,Press,Seated,Chest,Barbell,Low,Intermediate,111,310,Hold,Flexibility,0.94
+326,Press,Seated,Core,Plate,Low,Beginner,110,382,Isolation,Endurance,0.71
+327,Press,Seated,Full Body,Barbell,Medium,Beginner,128,287,Pull,Strength,0.92
+328,Press,Incline,Chest,Resistance Band,Medium,Beginner,132,256,Pull,Endurance,0.95
+329,Press,Incline,Arms,Dumbbell,Low,Beginner,152,265,Push,Flexibility,0.89
+330,Press,Incline,Core,Resistance Band,Medium,Beginner,143,266,Isolation,Cardio,0.74
+331,Press,Decline,Core,Plate,Low,Advanced,135,272,Push,Endurance,0.82
+332,Press,Decline,Back,Resistance Band,Medium,Advanced,161,486,Isolation,Flexibility,0.95
+333,Press,Decline,Arms,Plate,Medium,Beginner,150,594,Push,Strength,0.88
+334,Press,Machine,Back,Resistance Band,High,Beginner,141,286,Compound,Endurance,0.92
+335,Press,Machine,Chest,Kettlebell,Medium,Intermediate,110,575,Pull,Endurance,0.86
+336,Press,Machine,Legs,Barbell,Medium,Advanced,145,381,Isolation,Cardio,0.83
+337,Rowing,Machine,Legs,Machine,Medium,Intermediate,128,373,Hold,Flexibility,0.81
+338,Rowing,Machine,Back,Resistance Band,Medium,Advanced,127,305,Hold,Strength,0.72
+339,Rowing,Machine,Arms,Barbell,High,Beginner,129,230,Hold,Endurance,0.72
+340,Rowing,Water,Core,Plate,High,Advanced,143,521,Isolation,Strength,0.7
+341,Rowing,Water,Back,Plate,High,Advanced,157,206,Push,Strength,0.89
+342,Rowing,Water,Arms,Barbell,Low,Beginner,162,296,Push,Flexibility,1.0
+343,Rowing,Resistance Band,Shoulders,Dumbbell,Medium,Intermediate,126,413,Push,Flexibility,0.77
+344,Rowing,Resistance Band,Back,Barbell,Medium,Intermediate,145,395,Pull,Flexibility,0.91
+345,Rowing,Resistance Band,Legs,Machine,High,Advanced,148,272,Pull,Endurance,0.74
+346,Rowing,Dumbbell,Back,Kettlebell,Low,Intermediate,154,123,Push,Endurance,0.84
+347,Rowing,Dumbbell,Chest,Bodyweight,Medium,Beginner,162,317,Hold,Cardio,0.91
+348,Rowing,Dumbbell,Back,Machine,High,Intermediate,139,372,Push,Endurance,0.7
+349,Rowing,Barbell,Arms,Barbell,High,Advanced,116,530,Push,Strength,0.99
+350,Rowing,Barbell,Chest,Bodyweight,Low,Advanced,155,342,Hold,Strength,0.81
+351,Rowing,Barbell,Back,Barbell,High,Advanced,127,313,Hold,Flexibility,0.97
+352,Rowing,Cable,Back,Barbell,Low,Advanced,159,360,Pull,Endurance,0.83
+353,Rowing,Cable,Core,Kettlebell,High,Intermediate,133,271,Push,Strength,0.9
+354,Rowing,Cable,Back,Machine,Medium,Advanced,155,468,Pull,Strength,0.99
+355,Rowing,Seated,Full Body,Bodyweight,Low,Advanced,139,374,Pull,Cardio,0.77
+356,Rowing,Seated,Chest,Resistance Band,High,Intermediate,125,432,Compound,Endurance,0.76
+357,Rowing,Seated,Legs,Resistance Band,Low,Advanced,147,247,Isolation,Endurance,0.96
+358,Rowing,Inverted,Full Body,Resistance Band,Low,Beginner,126,182,Pull,Cardio,0.85
+359,Rowing,Inverted,Legs,Resistance Band,Medium,Intermediate,117,496,Push,Endurance,0.77
+360,Rowing,Inverted,Chest,Barbell,Medium,Advanced,114,202,Compound,Cardio,0.8

@@ -184,7 +184,7 @@ const App: React.FC = () => {
             />
             <Route 
               path="/analytics" 
-              element={analyticsData ? <AnalyticsPage data={analyticsData} /> : null} 
+              element={analyticsData ? <AnalyticsPage /> : null} 
             />
             <Route path="/profile" element={<ProfilePage />} />
           </Routes>

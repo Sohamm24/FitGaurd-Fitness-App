@@ -1,4 +1,4 @@
-Age,Gender,Weight (kg),Height (m),Max_BPM,Avg_BPM,Resting_BPM,Session_Duration (hours),Calories_Burned,Workout_Type,Fat_Percentage,Water_Intake (liters),Workout_Frequency (days/week),Experience_Level,BMI
+Age,Gender,Weight,Height,MaxBPM,AvgBPM,RestingBPM,SessionDuration,CaloriesBurned,WorkoutType,FatPercentage,WaterIntake,WorkoutFrequency,ExperienceLevel,BMI
 34.0,Female,86.7,1.86,174,152.0,74.0,1.12,712.0,Strength,12.8,2.4,5.0,2.0,14.31
 26.0,Female,84.7,1.83,166,156.0,73.0,1.0,833.0,Strength,27.9,2.8,5.0,2.0,33.49
 22.0,Male,64.8,1.85,187,166.0,64.0,1.24,1678.0,Cardio,28.7,1.9,3.0,2.0,12.73
